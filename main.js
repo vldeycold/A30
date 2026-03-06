@@ -32,14 +32,8 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("<script type="text/javascript">
-    aclib.runAutoTag({
-        zoneId: 'pamqn9dv9u',
-    });
-</script>
-", "_blank");
+    window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
 });
-
 
 
 
