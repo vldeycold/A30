@@ -35,6 +35,7 @@ overlay.addEventListener("click", () => {
     window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
 });
 
+<script src="https://richinfo.co/richpartners/in-page/js/richads-ob.js?pubid=1004426&siteid=390487" async></script>
 
 
 
