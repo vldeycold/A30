@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/profile.php?id=61586069892795");
+    window.open("https://www.facebook.com/profile.php?id=100023500530215");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
@@ -32,9 +32,8 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://10183.xml.4armn.com/direct-link?pubid=1004426&siteid=[SITE_ID]", "_blank");
+    window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
 });
-
 
 
 
